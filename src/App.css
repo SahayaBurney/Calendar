@@ -1,0 +1,49 @@
+#name{
+  width: 30%;
+  margin-left: 37%;
+  font-family: Elephant;
+  letter-spacing: 4px;
+  border: 2px dashed olive;
+  font-size: 50px;
+  text-align: center;
+  color: rgb(107, 2, 107);
+}
+.packing{
+  width: 80%;
+  margin-left: 10%;
+}
+.bill{
+  background-color: rgb(107, 2, 107);
+  color: olive;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Elephant;
+}
+.touch {
+  font-size: 20px;
+  margin-left: 10%;
+  margin-top: 3%;
+  color: rgb(107, 2, 107);
+}
+.form{
+  margin-left: 10%;
+  margin-top: 3%;
+}
+.form input{
+  width: 80%;
+  padding: 1%;
+  border-radius: 30px;
+  background-color: rgb(107, 2, 107); 
+  color: olive;
+  font-size: 20px;
+  font-size: larger;
+}
+.form button{
+  margin-left: 5%;
+  padding: 10px;
+  background-color: rgb(107, 2, 107); 
+  color: olive;
+  font-size: 20px;
+  border-radius: 20px;
+  margin-top: 2%;
+}
